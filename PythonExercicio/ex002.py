@@ -14,7 +14,7 @@ Create a program that reads a person's age for calculate the next Birthday and d
 
 age = int(input('Hello, tell us your age: '))
 
-final_age = int(age + 1)
+final_age = float(age + 1)
 
 print(f'\nOn your next Birthday, you will be: {final_age} years old! \n')
 
