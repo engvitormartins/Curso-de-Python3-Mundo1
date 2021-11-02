@@ -22,4 +22,9 @@ ages = [age, final_age]
 
 ages_dictionary = dict.fromkeys(ages, "Age's Vitor")
 
-print(ages_dictionary)
+print(ages_dictionary, '\n')
+
+age_01, age_02 = age, final_age
+
+print(age_01, 'and', age_02, '\n')
+
