@@ -2,12 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.ticker import (MultipleLocator, AutoLocator)
 
-
-
 x = [1, 2, 3, 4]
 y = [1, 4, 2, 3]
-
-
 
 # plot01
 # plt.subplot(1, 2, 1)
